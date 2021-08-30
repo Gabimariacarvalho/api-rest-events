@@ -20,7 +20,7 @@ public class EventController {
         Event e = new Event();
         e.setActive(true);
         e.setId(1);
-        e.setDescription("Balada remota");
+        e.setDescription("Balada remoa");
         e.setStartIn(new Date());
         e.setEndId(null);
         REPOSITORIO.add(e);
